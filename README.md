@@ -17,8 +17,8 @@ python programlauncher.py
 
 ## Instructions to Modify Script
 ```html
-1. Double check program constants' path to ensure paths are correct. This is especially true in the Windows environment.
-You WILL need to change the user name, etc.
+1. Double check program constants' path to ensure paths are correct. This is especially true 
+in the Windows environment. You WILL need to change the user name, etc.
     eg. TonyRolfe to your username
 
 2. If you would like to add new ones:
